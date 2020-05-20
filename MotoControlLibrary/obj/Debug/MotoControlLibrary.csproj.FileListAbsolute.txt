@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\MoTo\MotoControlLibrary\bin\Debug\MotoControlLibrary.dll
+C:\Users\ASUS\source\repos\MoTo\MotoControlLibrary\bin\Debug\MotoControlLibrary.pdb
+C:\Users\ASUS\source\repos\MoTo\MotoControlLibrary\obj\Debug\MotoControlLibrary.dll
+C:\Users\ASUS\source\repos\MoTo\MotoControlLibrary\obj\Debug\MotoControlLibrary.pdb
+C:\Users\ASUS\source\repos\MoTo\MotoControlLibrary\obj\Debug\MotoControlLibrary.csprojAssemblyReference.cache
